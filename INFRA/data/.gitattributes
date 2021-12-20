@@ -1,0 +1,1 @@
+INFRA/data/cityscapes_512x1024_val.tar.gz filter=lfs diff=lfs merge=lfs -text
