@@ -1,1 +1,2 @@
 *.whl filter=lfs diff=lfs merge=lfs -text
+INFRA/dependencies/TensorRT-7.2.1.6.Ubuntu-18.04.x86_64-gnu.cuda-10.2.cudnn8.0.tar.gz filter=lfs diff=lfs merge=lfs -text
